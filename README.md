@@ -1,4 +1,4 @@
-Ensiksi tein nanolla pienen ohjelman C:lLÄ joka printtaa "hello world" jonka tallensin nimellä hello.c
+Ensiksi tein nanolla pienen ohjelman C:llä joka printtaa "hello world" jonka tallensin nimellä hello.c
 ![Kuvakaappaus tehtävästä](h0tehtävä.png)
 
 
