@@ -1,7 +1,7 @@
-#Tehtävä h0
+# Tehtävä h0
+
 Ensiksi tein nanolla pienen ohjelman C:llä joka printtaa "hello world" jonka tallensin nimellä hello.c
 ![Kuvakaappaus tehtävästä](h0tehtävä.png)
-
 
 Sitten käänsin lähdekoodin gcc:llä binäärimuotoon
 ![Kuvakaappaus tehtävästä 2](h0tehtävä2.png)
